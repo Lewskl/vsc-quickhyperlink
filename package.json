@@ -2,7 +2,7 @@
     "name": "quickhyperlink",
     "displayName": "quickhyperlink",
     "description": "Makes selected text into a hyperlink with a single shortcut",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "lewski",
     "engines": {
         "vscode": "^1.23.0"
