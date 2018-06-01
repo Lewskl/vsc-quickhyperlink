@@ -1,6 +1,7 @@
-# quickhyperlink README
+# Quick Hyperlink for VS Code
 
-This is the README for your extension "quickhyperlink". After writing up a brief description, we recommend including the following sections.
+Inspired by [this Atom extension](<https://github.com/shwetank/quickhyperlink>),
+this extension lets you quickly create hyperlinks from a link in your clipboard and some text in VS Code.
 
 ## Features
 
@@ -47,7 +48,7 @@ Fixed issue #.
 
 Added features X, Y, and Z.
 
------------------------------------------------------------------------------------------------------------
+---
 
 ## Working with Markdown
 
