@@ -42,6 +42,13 @@
                     "command": "extension.makeLink",
                     "when": "editorHasSelection && !editorHasMultipleSelections && !editorReadOnly"
                 }
+            ],
+            "editor/context": [
+                {
+                    "command": "extension.makeLink",
+                    "when": "editorHasSelection && !editorHasMultipleSelections && !editorReadOnly",
+                    "group": "1_modification"
+                }
             ]
         },
         "scripts": {
